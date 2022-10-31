@@ -1,0 +1,24 @@
+<section id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Join Us!</h2>
+                   <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                </div>
+                <div class="col-lg-12 text-center">
+                    <p style="font-size:medium;"><p style="color:#ff7474";>General membership is $20, Please send a request to 
+                            join "Cougarettes" on 'Get Involved' through AccessUH. Payment methods are listed below! After we verify your payment, we will add you as a member.
+                        Make sure you check out our socials below to get plugged in!
+                        </p></p>
+                        <p style="color:#ff7474";>
+                                Venmo us at @UH-Cougarettes (Please include your full name and email on the description of your payment.) </p>
+                        <!-- <p style="color:#DACFCD";>
+                                More payment options</p> -->
+                    <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1LbSmaKU6uXjB8mUq9A6CIh1"
+publishable-key="pk_live_51LbS6vKU6uXjB8mUb0W4Jo4mcVifjVQhdocrPtKy8kYHk9c2CvrpUiv9pYdc6YPiLnzBQWoDnSA4dISNHfv63AsN00p6dfD9iR">
+</stripe-pricing-table>
+                    
+        </div>
+
+    </section>
